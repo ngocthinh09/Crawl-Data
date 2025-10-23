@@ -1,0 +1,1 @@
+Project Crawl Data từ các trang báo nổi tiếng VN-Express, Báo Thanh niên,.... dùng để xây dựng hệ thống hỏi đáp RAG
