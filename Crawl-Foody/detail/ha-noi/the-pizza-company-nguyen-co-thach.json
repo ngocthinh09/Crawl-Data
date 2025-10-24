@@ -1,0 +1,17 @@
+{
+    "shop_name": "The Pizza Company - Nguyễn Cơ Thạch",
+    "address": "24 Nguyễn Cơ Thạch, P. Mỹ Đình, Quận Nam Từ Liêm",
+    "menu": [],
+    "feedback": [
+        {
+            "review_point": "5.0",
+            "username": "Quỳnh Như",
+            "describle": "Pizza quá chán, so với giá là quá đắt\nGà rán ngon\nSalad không ngon\nPhục vụ thân thiện, không gian ok"
+        },
+        {
+            "review_point": "9.2",
+            "username": "Mai Anh",
+            "describle": "The Pizza Company mới ra thực đơn Món Ngon Giá Chất siêu đã, vừa rẻ vừa hợp túi tiền lại vừa ngon tuyệt! Mình thích nhất là Pizza Chất. Pizza Sandwich ăn cũng rất ngon và lạ nữa."
+        }
+    ]
+}
