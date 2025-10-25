@@ -2,5 +2,41 @@
     "shop_name": "Gà Rán KFC - Lâm Văn Bền",
     "address": "168 Lâm Văn Bền, P. Tân Quy, Quận 7",
     "menu": [],
-    "feedback": []
+    "feedback": [
+        {
+            "review_point": "5.0",
+            "username": "Foodee_Xrxtousz",
+            "describle": "Ba từ thôi ngon bổ rẻ"
+        },
+        {
+            "review_point": "3.0",
+            "username": "Ngọc Trinh",
+            "describle": "Mình đi ăn nhiều chi nhánh KFC nhưng chưa chi nhánh nào có 1 trải nghiệm tệ như ở đây.Từ khâu order - nhận món đến cách nhân viên và quản lý cửa hàng ở đây phục vụ quá tệ…Chưa ở đâu mà khách A lấy nhầm món khách B đến 5-10phút rồi thì nhân viên lại bưng cái mâm đó qua cho khách B để dùng.Mình thấy dị ứng thật sự và đã gửi tặng***bảo vệ bớt phần ăn có thể đã chung đụng đó.Cám ơn các bạn đã phục vụ mình một cách tệ để mình biết các chi nhánh mình đã ghé qua chất lượng phục vụ ổn như thế nào."
+        },
+        {
+            "review_point": "6.4",
+            "username": "Minh Phan",
+            "describle": "Sao nhân viên nữ mặc áo sơ mi trắng ở đây phải đeo vớ đen vậy mn ?????"
+        },
+        {
+            "review_point": "4.4",
+            "username": "Thư Phạm",
+            "describle": "Hôm qua thấy KM 18k/ miếng gà nên ghé mua ăn. Mình nghĩ KFC thì chuẩn rồi, chất lượng đồng nhất. Nhưng không... chi nhánh này mình thề luôn :))) dở nhất trong những chỗ KFC mình từng ăn (mình là fan của KFC nhé) \nQuá thất vọng về chất lượng, gà mặn chát, thịt vừa khô vừa bở như gà cũ ấy. Bn nhân viên có vẻ do tiếp khách nhiều nên hơi mệt nhưng vẫn làm tốt, trừ chỗ là bạn đồng ý lấy cho mình 1 nửa số gà là đùi nhưng cuối cùng chỉ toàn cánh, chỉ có 1 đùi thôi. Bạn quản lý nói chuyện hơi lớn tiếng và thảy bịch gà lên bàn cho mình khá mạnh tay và cục súc :))) \nKO QUAY LẠI"
+        },
+        {
+            "review_point": "5.8",
+            "username": "Dung Nguyen",
+            "describle": "Mình chưa bao giờ chê một quán nào trên Foody nhưng mà hôm nay đặt KFC bên này ăn quá là dở.\nTừ nhỏ tới lớn ăn KFC mà lần đầu mình ăn gà giòn cay không có một chút vị gì, giống như gà lăn miếng bột mà ko tẩm ướp gì rồi rán lên vậy. Mua xong thấy uổng tiền ghê gớm..."
+        },
+        {
+            "review_point": "5.4",
+            "username": "Quốc Bảo Bảo",
+            "describle": "Nhìn rất là bắt mắt với vẻ đẹp bên ngoài cũng như chỗ ngồi nhưng đồ ăn rất dở. So với tất cả chỗ mình từng ăn thì đây có thể nói là đồ ăn dở nhất trong các chi nhánh của KFC."
+        },
+        {
+            "review_point": "8.6",
+            "username": "Nam",
+            "describle": "Mới xây nên đẹp lắm,đang khuyến mãi hóa đơn 85k ( không tính phần ăn trưa ) được tặng 1 miếng gà và ly nước ngọt tới 20/9 ạ .\nChỗ ngồi rất sạch sẽ ,nhân viên nhiệt tình \nKhuyết điểm là quán mới nên ra món hơi chậm xíu."
+        }
+    ]
 }
